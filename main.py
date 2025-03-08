@@ -9,6 +9,7 @@ def main():
             continue
         else:
             print("Thanks for playing!")
+            break
     
 RPS = ["rock","paper","scissor"]
 
